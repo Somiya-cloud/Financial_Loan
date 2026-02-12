@@ -10,4 +10,8 @@ The Objectives are to manage loan disbursements, loan receivables, and loan cate
 #SQL Commands
 -------
 
+#Microsft Power BI Visualization:
 <a href = "https://github.com/Somiya-cloud/Financial_Loan/blob/main/Financial_Loan.pbix"View Dashboard</a>
+
+#Dashboard Image
+
