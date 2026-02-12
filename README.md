@@ -14,4 +14,4 @@ The Objectives are to manage loan disbursements, loan receivables, and loan cate
 <a href = "https://github.com/Somiya-cloud/Financial_Loan/blob/main/Financial_Loan.pbix"View Dashboard</a>
 
 #Dashboard Image
-a< href "https://github.com/Somiya-cloud/Financial_Loan/blob/main/Screenshot%202026-02-11%20003415.png" View Dashboard</a>
+a< href "https://github.com/Somiya-cloud/Financial_Loan/blob/main/Screenshot%202026-02-11%20003415.png"> View Dashboard</a>
